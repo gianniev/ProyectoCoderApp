@@ -1,2 +1,2 @@
-El archivo correcto es “ProyectoDS_ParteI_+Etcheverry_ipynb.ipynb
-El archivo que contiene el (1) al final no está actualizado.
+Proyecto Data science Anime Insight: “ProyectoDS_ParteI_+Etcheverry_ipynb.ipynb
+Diapositiva con slides : Anime Insight
